@@ -1,0 +1,7 @@
+<suite name="OHRM Application">
+  <test name="OHRM_LogInTest">
+    <classes>
+      <class name="com.TestNG.OHRM_LogInTest"/>
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Default suite -->

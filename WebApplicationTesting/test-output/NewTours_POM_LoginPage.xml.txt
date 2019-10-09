@@ -1,0 +1,7 @@
+<suite name="NewTours Application">
+  <test name="NewTours_LogInTest">
+    <classes>
+      <class name="com.NewTours_TestCases.NewTour_LogIn_Test"/>
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Default suite -->
